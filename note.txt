@@ -1,0 +1,2 @@
+This can only be used with an AWS API key.
+Mechanism can be implemented in projects or games that require one physical action such as Flappy Bird or Geometry Dash.
